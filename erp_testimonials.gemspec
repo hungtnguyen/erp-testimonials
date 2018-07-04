@@ -7,15 +7,11 @@ require "erp/testimonials/version"
 Gem::Specification.new do |s|
   s.name        = "erp_testimonials"
   s.version     = Erp::Testimonials::VERSION
-  s.authors     = ["Luan Pham",
-                  "Son Nguyen",
-                  "Hung Nguyen"]
-  s.email       = ["luanpm@hoangkhang.com.vn",
-                  "sonnn@hoangkhang.com.vn",
-                  "hungnt@hoangkhang.com.vn"]
-  s.homepage    = "http://globalnaturesoft.com/"
-  s.summary     = "Testimonials features of website E-commerce."
-  s.description = "Testimonials features of website E-commerce."
+  s.authors     = ["Nguyen Ton Hung"]
+  s.email       = ["1633514@hcmut.edu.vn"]
+  s.homepage    = "http://hcmut.edu.vn/"
+  s.summary     = "Testimonials features."
+  s.description = "Testimonials features."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
